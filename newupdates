@@ -1,3 +1,38 @@
--test
--test
--test
+8.22.23 Update:
+Added:
+Supermarket Job / Store:
+	-This combines YouTool and all the random shops into one area, a "one stop shop"
+	-Ability to grab a cart, pickup items, and head to self checkout for purchasing
+	-Job includes restocking, working the register, and cleaning
+NPC Doctor:
+	-Due to the population, we added the ability to have a local come revive you for an extra charge
+Money Washing:
+	-Added the ability to turn marked money into crypto currency via a teller
+
+Blip Creator:
+	-Allows you to create your own blips, that only you can see
+Pets:
+	-Pets have the ability to play fetch, search players (LEO), and track hunting animals
+
+Blaze It!:
+	-Added job to allow for bulk weed crafting	
+	-Added specialized items specific to Blaze It!
+
+Updated:
+-Garages now show up on your phone
+-Starter Items:
+	-Added more items to your pockets as a new character
+
+Crafting:
+	-Removed feature that showed you items you couldnt craft
+	-Removed ability to walk away from the crafting table while having items in queue
+-Ambulance Job:
+	-Fixed issue spawning in the wall
+-Chat:
+	-Fixed UI to no longer show you who joined / left
+Hunting:
+	-Pelts now are rated by quality of shot
+	-Added several new animals
+	-Added butcher integrations
+Removed:
+-Valet function from your phone
