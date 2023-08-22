@@ -17,6 +17,13 @@ Pets:
 Blaze It!:
 	-Added job to allow for bulk weed crafting	
 	-Added specialized items specific to Blaze It!
+House Robberies:
+	-Added ability to increase criminal reputation by completing house robberies
+	-Added several searchable props
+Sanitation:	
+	-Added ability to start garbage job where you pickup trash around the city in exchange for money or materials
+	-Added queue system that allows you to invite players (grouped up to 4)
+
 
 Updated:
 -Garages now show up on your phone
@@ -34,5 +41,9 @@ Hunting:
 	-Pelts now are rated by quality of shot
 	-Added several new animals
 	-Added butcher integrations
+
+-Fuel Stations:
+	-Added Electric Vehicle charging
+
 Removed:
 -Valet function from your phone
