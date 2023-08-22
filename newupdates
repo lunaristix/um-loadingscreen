@@ -1,4 +1,19 @@
 8.22.23 Update:
+-Reworked blaze it to allow for individualized crafting (they dont earn levels anymore)
+
+
+
+
+-BLAZE IT CRAFTING:
+Weed Brownie
+Drug Grinder
+Stoney Patch Kids
+Bong
+Drug Scales
+Empty Weed Bag (Discounted so you dont have to spend a fortune)
+
+
+8.22.23 Update:
 Added:
 Supermarket Job / Store:
 	-This combines YouTool and all the random shops into one area, a "one stop shop"
@@ -23,6 +38,11 @@ House Robberies:
 Sanitation:	
 	-Added ability to start garbage job where you pickup trash around the city in exchange for money or materials
 	-Added queue system that allows you to invite players (grouped up to 4)
+Masks:
+	-Ability to have a physical items in your pockets (Masks keep variations and can swap between players)
+
+
+
 
 
 Updated:
@@ -44,6 +64,10 @@ Hunting:
 
 -Fuel Stations:
 	-Added Electric Vehicle charging
+
+
+
+
 
 Removed:
 -Valet function from your phone
