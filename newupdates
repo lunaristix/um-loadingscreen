@@ -1,3 +1,28 @@
+9.13.23 Update:
+[ADDED]
+-Added bank robberies (Fleeca, Vangelico, Art, Paleto, Pacific)
+-Added the ability to loot locals
+-24/7 Robberies
+-Prone / Shoot
+-Gun Lasers
+-Vegetation
+
+
+[UPDATED]
+-Police Job
+    -GSR
+    -K9
+    -Ability for Civilians to request PD 
+    -AND MORE!
+-Fixed Weapons on Back
+-Adjusted Drug Loot Tables
+
+[REMOVED]
+-Removed all dispatch alerts for Drug Production / Material Gathering
+    -It is up to the cops to patrol around federal properties only
+-Removed Player Blips from PD
+-Removed Bank Cameras
+
 
 8.22.23 Update:
 Added:
