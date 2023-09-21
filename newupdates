@@ -1,3 +1,59 @@
+9.21.23 Update:
+[Added]
+-Fishing
+-Several new weapons
+	-enhanced recoil
+-Realistic smoking mechanic
+	-Helps with stress relief
+-Newspaper
+	-Tells you latest arrest
+	-Weazel news employees can post articles
+--Several new vehicles to PDM with custom handling configs (WIP)
+  - This can/will change as we review the effects and balance
+		-Our goal is to have most stock cars go 120 MPH with bumps. Weve noticed the faster you go, the higher the fps drop is. If you notice a car going well over this limit, please let us know.
+-Up N Atom (NPC Ran)
+	-Restaurant Food/Items/Emotes/Props
+-Police
+	-Police can now toggle duty anywhere in the city with /duty (due to headpops and whatnot)
+	-The ability to cut off handcuffs ;)
+	-Zipties 
+	-Physical item for panic button
+-Lottery tickets (WIP)
+	-Every restart check your ticket for a prize
+-Criminal Reputation (Currently only works for House Robberies, but plans to make it for certain heists)
+	-Accessible through F1 "Check skills"
+-Added Drug System (WIP)
+	-Shrooms
+	-Ecstacy
+	-Heroin
+	-LSD
+	-Crack
+	-Find drugs around the city (Xanax, Aderall, Vicodin, Morphine)
+-Added Skydiving Job
+-Added San Andreas State Prison
+	-Crafting
+	-Smuggling
+	-Jobs (they dont reduce your sentence, the guards do, so treat them right)
+	-Visitation (Civilians can request a prisoners visitation (must go through metal detector check)
+
+
+[Updated]
+-Fixed several texture streaming issues for a better overall client experience
+-Revised several new craftable items
+-Adjusted Speed of Flying out to 125
+-Changed Dispatch UI
+
+[Removed]
+-Disabled combat rolling
+-Removed ability to reloadskin
+-Removed ability for players to talk when dead (cause they're dead) lol
+- No longer see the option to sell unrefined ores
+  - Ore must be refined into materials
+    - Materials are not sellable but will have future purpose
+- No longer see the option to sell uncut gems
+  - Uncut gems must be cut in order to sell to vendor
+
+
 9.13.23 Update:
 [ADDED]
 -Added bank robberies (Fleeca, Vangelico, Art, Paleto, Pacific)
